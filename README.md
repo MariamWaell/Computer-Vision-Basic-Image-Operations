@@ -1,4 +1,4 @@
-# Computer Vision Basic Image Operations
+# Computer Vision Basic Image Processing
 - Filters, Histograms, Gradients, Frequency
 
 ## Functions Files
